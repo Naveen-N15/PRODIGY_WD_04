@@ -14,7 +14,7 @@ body{
 #header{
     width: 100%;
     height: 100vh;
-    background-image: url(PRODIGY_WD_04/men.png);
+    background-image: url(men.png);
     background-size: cover;
     background-position: center;
 }
